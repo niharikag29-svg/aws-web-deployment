@@ -20,7 +20,7 @@ Below are key steps of deployment:
 ![EC2 Running](screenshots/ec2-running.png)
 ![Apache Terminal](screenshots/apache-terminal.png)
 ![Security Group](screenshots/security-group.png)
-![Website Live](screenshots/website-live.png)
+![EC2 Running](screenshots/website-live.png)
 
 ## Author
 **Niharika Gali**
