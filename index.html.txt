@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Niharika AWS Project</title>
+</head>
+<body>
+    <h1>Hello from Niharika AWS Server 🚀</h1>
+    <p>Deployed using EC2 + Apache + AWS Cloud</p>
+</body>
+</html>
