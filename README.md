@@ -1,28 +1,26 @@
-# AWS Secure Web Application Deployment
+# AWS Secure Web App Deployment
 
-## Project Overview
-Deployed a public web server on AWS EC2 using Apache and Linux. Configured security groups, SSH access, and monitoring to simulate real-world cloud deployment.
+## Overview
+Deployed a public web server on AWS EC2 using Apache and Linux. Configured security groups, SSH, and hosted a static web page.
 
-## Architecture
-User → EC2 (Apache) → Security Groups → Internet
+## Files
+- index.html – simple HTML page hosted
+- screenshots/ – proof of deployment steps
 
-## Services Used
-- Amazon EC2
-- Apache (httpd)
-- Security Groups
-- SSH
-- Linux
-
-## Steps Performed
+## Steps
 1. Launched EC2 instance
-2. Connected using SSH
-3. Installed Apache
-4. Hosted static website
-5. Opened HTTP port 80
-6. Verified public access
+2. Installed Apache
+3. Opened port 80 (HTTP)
+4. Hosted website
+5. Took screenshots and uploaded here
 
-## Result
-Website successfully deployed and accessible via public IP.
+## Screenshots
+Below are key steps of deployment:
+
+![EC2 Running](screenshots/ec2-running.png)
+![Apache Terminal](screenshots/apache-terminal.png)
+![Security Group](screenshots/security-group.png)
+![EC2 Running](screenshots/website-live.png)
 
 ## Author
-Niharika Gali
+**Niharika Gali**
